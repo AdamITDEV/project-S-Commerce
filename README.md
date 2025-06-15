@@ -30,7 +30,7 @@
   <img src="https://github.com/AdamITDEV/project-S-Commerce/raw/main/Screenshot%202025-06-16%20000757.png" width="45%" />
 </p>
 
-### 📊 Dashboard quản trị
+### 📊 RichText Đăng Bài Viết
 <p float="left">
   <img src="https://github.com/AdamITDEV/project-S-Commerce/raw/main/Screenshot%202025-06-16%20000905.png" width="45%" />
 </p>
