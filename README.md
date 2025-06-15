@@ -12,7 +12,7 @@
   <img src="https://github.com/AdamITDEV/project-S-Commerce/raw/main/Screenshot%202025-06-16%20000632.png" width="45%" />
 </p>
 
-### 🛒 Giỏ hàng & Thanh toán
+### 🛒 Tương Tác & Thiết Lập
 <p float="left">
   <img src="https://github.com/AdamITDEV/project-S-Commerce/raw/main/Screenshot%202025-06-16%20000642.png" width="45%" />
   <img src="https://github.com/AdamITDEV/project-S-Commerce/raw/main/Screenshot%202025-06-16%20000647.png" width="45%" />
